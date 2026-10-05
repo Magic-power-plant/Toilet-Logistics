@@ -1,0 +1,7 @@
+{
+  "parent": "toilet_logistics:block/toilet_close",
+  "textures": {
+    "missing": "minecraft:blocks/glazed_terracotta_green",
+    "particle": "minecraft:blocks/glazed_terracotta_green"
+  }
+}

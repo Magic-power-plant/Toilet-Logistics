@@ -1,0 +1,11 @@
+{
+  "toilet_flush": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "toilet_logistics:toilet_flush",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "toilet_logistics",
+  "name": "Toilet Logistics",
+  "description": "Adds an extraction pipe and a reusable toilet plunger wrench to Dung Pipe.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Toilet Logistics"],
+  "credits": "Forge and Dung Pipe",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["dungpipe"]
+}
+]

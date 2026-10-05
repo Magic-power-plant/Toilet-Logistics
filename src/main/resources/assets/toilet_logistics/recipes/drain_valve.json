@@ -1,0 +1,10 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [" S ", "IPI", " I "],
+  "key": {
+    "S": {"item": "dungpipe:sewer_pipe"},
+    "I": {"ore": "ingotIron", "type": "forge:ore_dict"},
+    "P": {"item": "minecraft:iron_bars"}
+  },
+  "result": {"item": "toilet_logistics:drain_valve", "count": 1}
+}

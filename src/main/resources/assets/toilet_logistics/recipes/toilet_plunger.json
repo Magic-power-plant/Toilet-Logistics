@@ -1,0 +1,10 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": ["SIS", " P "],
+  "key": {
+    "S": {"item": "minecraft:stick"},
+    "I": {"ore": "ingotIron", "type": "forge:ore_dict"},
+    "P": {"item": "minecraft:slime_ball"}
+  },
+  "result": {"item": "toilet_logistics:toilet_plunger"}
+}

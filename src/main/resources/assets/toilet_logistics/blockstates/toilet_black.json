@@ -1,0 +1,64 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "facing=north,open=false": {
+      "model": "toilet_logistics:toilet_close",
+      "y": 0,
+      "textures": {
+        "missing": "minecraft:blocks/glazed_terracotta_black"
+      }
+    },
+    "facing=east,open=false": {
+      "model": "toilet_logistics:toilet_close",
+      "y": 90,
+      "textures": {
+        "missing": "minecraft:blocks/glazed_terracotta_black"
+      }
+    },
+    "facing=south,open=false": {
+      "model": "toilet_logistics:toilet_close",
+      "y": 180,
+      "textures": {
+        "missing": "minecraft:blocks/glazed_terracotta_black"
+      }
+    },
+    "facing=west,open=false": {
+      "model": "toilet_logistics:toilet_close",
+      "y": 270,
+      "textures": {
+        "missing": "minecraft:blocks/glazed_terracotta_black"
+      }
+    },
+    "facing=north,open=true": {
+      "model": "toilet_logistics:toilet_open",
+      "y": 0,
+      "textures": {
+        "missing": "minecraft:blocks/glazed_terracotta_black"
+      }
+    },
+    "facing=east,open=true": {
+      "model": "toilet_logistics:toilet_open",
+      "y": 90,
+      "textures": {
+        "missing": "minecraft:blocks/glazed_terracotta_black"
+      }
+    },
+    "facing=south,open=true": {
+      "model": "toilet_logistics:toilet_open",
+      "y": 180,
+      "textures": {
+        "missing": "minecraft:blocks/glazed_terracotta_black"
+      }
+    },
+    "facing=west,open=true": {
+      "model": "toilet_logistics:toilet_open",
+      "y": 270,
+      "textures": {
+        "missing": "minecraft:blocks/glazed_terracotta_black"
+      }
+    }
+  }
+}
